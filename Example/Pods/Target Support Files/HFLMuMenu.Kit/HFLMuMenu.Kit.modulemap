@@ -1,0 +1,6 @@
+framework module HFLMuMenu_Kit {
+  umbrella header "HFLMuMenu.Kit-umbrella.h"
+
+  export *
+  module * { export * }
+}

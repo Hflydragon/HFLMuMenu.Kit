@@ -1,0 +1,23 @@
+PODS:
+  - HFLMuMenu.Kit (0.1.0):
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - HFLMuMenu.Kit (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  HFLMuMenu.Kit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HFLMuMenu.Kit: 52bb1effa4cc8396072f135f4d6522fe3cdebd8d
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: a5a4bb49941da10db47508a80c8a53a8fe5eb681
+
+COCOAPODS: 1.6.1

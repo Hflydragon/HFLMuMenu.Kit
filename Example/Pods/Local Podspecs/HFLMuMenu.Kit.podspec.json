@@ -1,0 +1,27 @@
+{
+  "name": "HFLMuMenu.Kit",
+  "version": "0.1.0",
+  "summary": "这是一个可变的Menu仓库",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Hflydragon/HFLMuMenu.Kit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hflydragon": "1021731713@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Hflydragon/HFLMuMenu.Kit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HFLMuMenu.Kit/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}
