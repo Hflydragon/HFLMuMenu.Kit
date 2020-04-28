@@ -9,6 +9,8 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+[![示例](https://gitee.com/HflyDragon/images/raw/master/1588057807993.jpg)](https://gitee.com/HflyDragon/images/raw/master/1588057807993.jpg)
+
 ## Requirements
 
 ## Installation
