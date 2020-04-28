@@ -27,3 +27,5 @@ Hflydragon, 1021731713@qq.com
 ## License
 
 HFLMuMenu.Kit is available under the MIT license. See the LICENSE file for more info.
+
+这是一个可变的Menu仓库
